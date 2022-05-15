@@ -7,7 +7,7 @@ Hi您好，我熱愛追求技術不斷來提升與挑戰，我一直強調必須
 目前所在崗位前端工程師，前端開發主要以 Vue, React and JavaScript 作為開發。
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [yong_323@hotmail.com](mailto:yong_323@hotmail.com);
+- 📫 How to reach me: [decadehew@gmail.com](decadehew@gmail.com);
 - 📝 [Resume]()
 
 **Languages and Tools:**  
